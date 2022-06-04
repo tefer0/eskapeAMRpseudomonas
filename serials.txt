@@ -1,0 +1,17 @@
+card
+6289
+
+summary
+18863
+
+plasmidfinder
+18864
+
+summary
+25151
+
+vfdb
+25152
+
+summary
+31439
