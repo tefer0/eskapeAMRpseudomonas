@@ -1,3 +1,4 @@
+grp1
 card
 6289
 
@@ -15,3 +16,21 @@ vfdb
 
 summary
 31439
+
+grp2
+card
+6160 (error, didn't complete)
+
+summary
+
+plasmidfinder
+12319
+
+summary
+18477
+
+vfdb
+18478
+
+summary
+24636
