@@ -20,6 +20,9 @@ summary
 grp2
 card
 6160 (error, didn't complete)
+24637(errors)30806
+30807
+
 
 summary
 
